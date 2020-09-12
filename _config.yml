@@ -22,7 +22,7 @@ title: "React Digest"
 description: "A digest of the latest React news."
 baseurl: ""
 url: "https://react-digest.github.io"
-logo: "/images/react-logo.jpg"
+logo: "/images/react-logo.png"
 date_format: "%B %-d, %Y"
 read_time: false
 words_per_minute: # 200
