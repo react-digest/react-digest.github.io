@@ -272,6 +272,13 @@
     }
   }
 
+  .read-time {
+    font-family: $meta-font-family;
+    font-style: italic;
+    white-space: nowrap;
+    padding: 0 0.5em;
+  }
+
   .page-share {
     // display: grid fallback
     clear: both;
