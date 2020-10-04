@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "React Guild"
-description: "A community that helps develop React skills and share knowledge among the members."
+description: "A community that helps develop React skills and share knowledge."
 baseurl: ""
 url: "https://react-digest.github.io"
 logo: "/images/react-logo.png"
